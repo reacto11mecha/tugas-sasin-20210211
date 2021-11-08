@@ -1,0 +1,2128 @@
+[
+  [
+    {
+      "lema": "Sejak",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "pandemi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Covid-19",
+      "kelas": null
+    },
+    {
+      "lema": "melanda",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "dunia",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pendidikan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "terpaksa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "memindahkan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "proses",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "belajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "mengajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "dari",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "ke",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "rumah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "memutus",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "mata",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "rantai",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "penyebaran",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "virus",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "corona",
+      "kelas": null
+    },
+    {
+      "lema": "Tak",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "terasa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "sudah",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "lebih",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "dari",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "setengah",
+      "kelas": "Kata bilangan"
+    },
+    {
+      "lema": "tahun",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "kegiatan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Belajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "dari",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Rumah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "(BDR)",
+      "kelas": null
+    },
+    {
+      "lema": "dilaksanakan",
+      "kelas": null
+    },
+    {
+      "lema": "Meski",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "masih",
+      "kelas": null
+    },
+    {
+      "lema": "banyak",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "kendala",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "dihadapi",
+      "kelas": null
+    },
+    {
+      "lema": "satuan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pendidikan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "mulai",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "terbiasa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "menyelenggarakan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "BDR",
+      "kelas": null
+    }
+  ],
+  [
+    {
+      "lema": "Metode",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "BDR",
+      "kelas": null
+    },
+    {
+      "lema": "sendiri",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "ada",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "dua",
+      "kelas": "Kata bilangan"
+    },
+    {
+      "lema": "yaitu",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Pembelajaran",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Jarak",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Jauh",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "Dalam",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "Jaringan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "(PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "Daring)",
+      "kelas": null
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "PPJ",
+      "kelas": null
+    },
+    {
+      "lema": "Luar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Jaringan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "(Luring)",
+      "kelas": null
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "Daring",
+      "kelas": null
+    },
+    {
+      "lema": "secara",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "khusus",
+      "kelas": null
+    },
+    {
+      "lema": "menggabungkan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "teknologi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "elektronik",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "teknologi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "berbasis",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "internet",
+      "kelas": null
+    },
+    {
+      "lema": "sementara",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "Luring",
+      "kelas": null
+    },
+    {
+      "lema": "dapat",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "dilakukan",
+      "kelas": null
+    },
+    {
+      "lema": "melalui",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "siaran",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "televisi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "radio",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "modul",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "belajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "mandiri",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "bahan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "cetak",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "maupun",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "media",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "belajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "dari",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "benda",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "di",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "lingkungan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "sekitar",
+      "kelas": "Nomina (kata benda)"
+    }
+  ],
+  [
+    {
+      "lema": "Direktur",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Dasar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Direktorat",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Jenderal",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "PAUD",
+      "kelas": null
+    },
+    {
+      "lema": "Pendidikan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Dasar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Pendidikan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Menengah",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "Kementerian",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Pendidikan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Kebudayaan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "(Kemendikbud)",
+      "kelas": null
+    },
+    {
+      "lema": "Dra",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Sri",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Wahyuningsih",
+      "kelas": null
+    },
+    {
+      "lema": "MPd",
+      "kelas": null
+    },
+    {
+      "lema": "melihat",
+      "kelas": null
+    },
+    {
+      "lema": "peluang",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pendidikan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "masa",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "depan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "terbentuk",
+      "kelas": "Kiasan"
+    },
+    {
+      "lema": "dari",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "kondisi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pandemi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Covid-19",
+      "kelas": null
+    },
+    {
+      "lema": "Menurutnya",
+      "kelas": null
+    },
+    {
+      "lema": "Pembelajaran",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Jarak",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Jauh",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "(PJJ)",
+      "kelas": null
+    },
+    {
+      "lema": "bisa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "tetap",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "diterapkan",
+      "kelas": null
+    },
+    {
+      "lema": "setelah",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "pandemi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "berlalu",
+      "kelas": "Verba (kata kerja)"
+    }
+  ],
+  [
+    {
+      "lema": "Sebagai",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "contoh",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "anak",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "ikut",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "orang",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "tuanya",
+      "kelas": null
+    },
+    {
+      "lema": "pindah",
+      "kelas": null
+    },
+    {
+      "lema": "ke",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "negara",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "lain",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "biasanya",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "mengalami",
+      "kelas": null
+    },
+    {
+      "lema": "kendala",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dengan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "pendidikannya",
+      "kelas": null
+    },
+    {
+      "lema": "Dia",
+      "kelas": null
+    },
+    {
+      "lema": "harus",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "berhenti",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "sementara",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "di",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "negara",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "tujuan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "belum",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "tentu",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "langsung",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "diterima",
+      "kelas": null
+    },
+    {
+      "lema": "sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Nah",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "ke",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "depan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "ini",
+      "kelas": null
+    },
+    {
+      "lema": "bisa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "menjadi",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "solusi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Meski",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "anak",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "itu",
+      "kelas": null
+    },
+    {
+      "lema": "pindah",
+      "kelas": null
+    },
+    {
+      "lema": "ke",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "negara",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "lain",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "misalnya",
+      "kelas": null
+    },
+    {
+      "lema": "ia",
+      "kelas": null
+    },
+    {
+      "lema": "tetap",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "bisa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "jarak",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "jauh",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "jelas",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "Sri",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Wahyuningsih",
+      "kelas": null
+    }
+  ],
+  [
+    {
+      "lema": "Oleh",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "karena",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "itu",
+      "kelas": null
+    },
+    {
+      "lema": "ia",
+      "kelas": null
+    },
+    {
+      "lema": "mendorong",
+      "kelas": null
+    },
+    {
+      "lema": "jajaran",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Direktorat",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Dasar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Kemendikbud",
+      "kelas": null
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "mengindentifikasi",
+      "kelas": null
+    },
+    {
+      "lema": "persoalan-persoalan",
+      "kelas": null
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "dihadapi",
+      "kelas": null
+    },
+    {
+      "lema": "satuan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pendidikan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dalam",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "menyelenggarakan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "kemudian",
+      "kelas": null
+    },
+    {
+      "lema": "mencari",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "solusinya",
+      "kelas": null
+    },
+    {
+      "lema": "Termasuk",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "mengidentifikasi",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "sarana",
+      "kelas": null
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "prasarana",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "apa",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "saja",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "dibutuhkan",
+      "kelas": null
+    },
+    {
+      "lema": "oleh",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Dasar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "agar",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "berjalan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "lancar",
+      "kelas": "Adjektiva (kata sifat)"
+    }
+  ],
+  [
+    {
+      "lema": "Kita",
+      "kelas": "Cakapan (tidak baku)"
+    },
+    {
+      "lema": "perlu",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "melakukan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "identifikasi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "sarana",
+      "kelas": null
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "prasarana",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Pembelajaran",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Jarak",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Jauh",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Dasar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "agar",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "metode",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pembelajaran",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "ini",
+      "kelas": null
+    },
+    {
+      "lema": "berjalan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "baik",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "di",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "masa",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pandemi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "maupun",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "setelah",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "pandemi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "berlalu",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "Identifikasi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "ini",
+      "kelas": null
+    },
+    {
+      "lema": "tidak",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "hanya",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "di",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "perkotaan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "tetapi",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "juga",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "daerah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "3T",
+      "kelas": null
+    },
+    {
+      "lema": "(tertinggal",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "terdepan",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "terluar)",
+      "kelas": null
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "tidak",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "ada",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "internet",
+      "kelas": null
+    },
+    {
+      "lema": "kata",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Sri",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Wahyuningsih",
+      "kelas": null
+    }
+  ],
+  [
+    {
+      "lema": "Arwan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Syarif",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Analis",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Kebijakan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Ahli",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Muda",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "Direktorat",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Dasar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Kemendikbud",
+      "kelas": null
+    },
+    {
+      "lema": "mengatakan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "pihaknya",
+      "kelas": null
+    },
+    {
+      "lema": "menggelar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "Focus",
+      "kelas": null
+    },
+    {
+      "lema": "Group",
+      "kelas": null
+    },
+    {
+      "lema": "Discussion",
+      "kelas": null
+    },
+    {
+      "lema": "(FGD)",
+      "kelas": null
+    },
+    {
+      "lema": "pada",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "20-22",
+      "kelas": null
+    },
+    {
+      "lema": "Oktober",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "2020",
+      "kelas": null
+    },
+    {
+      "lema": "Melalui",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "kegiatan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "FGD",
+      "kelas": null
+    },
+    {
+      "lema": "ini",
+      "kelas": null
+    },
+    {
+      "lema": "diharapkan",
+      "kelas": null
+    },
+    {
+      "lema": "dapat",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "mengidentifikasi",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "sarana",
+      "kelas": null
+    },
+    {
+      "lema": "prasarana",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "apa",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "saja",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "dibutuhkan",
+      "kelas": null
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "Karena",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "selama",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "ini",
+      "kelas": null
+    },
+    {
+      "lema": "banyak",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "terdapat",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "perbedaan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "kegiatan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "belajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "mengajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "karena",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "antara",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "guru",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "siswa",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "terpisah",
+      "kelas": null
+    },
+    {
+      "lema": "sehingga",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "harus",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "ada",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "mediasi-mediasi",
+      "kelas": null
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "aktivitas",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "kegiatan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "mengajar",
+      "kelas": "Verba (kata kerja)"
+    }
+  ],
+  [
+    {
+      "lema": "Kita",
+      "kelas": "Cakapan (tidak baku)"
+    },
+    {
+      "lema": "harus",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "mengidentifikasi",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "interaksi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pembelajaran",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "apa",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "harmonis",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "sesuai",
+      "kelas": null
+    },
+    {
+      "lema": "dengan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "kaidah-kaidah",
+      "kelas": null
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "bisa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "menjadi",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "pengganti",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "kegiatan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "belajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "mengajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "tatap",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "muka",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Kita",
+      "kelas": "Cakapan (tidak baku)"
+    },
+    {
+      "lema": "juga",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "harus",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "mengidentifikasi",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "kira-kira",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "orang",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "tua",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "bisa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "nggak",
+      "kelas": null
+    },
+    {
+      "lema": "dalam",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "mendukung",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "proses",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "ini",
+      "kelas": null
+    },
+    {
+      "lema": "Selain",
+      "kelas": null
+    },
+    {
+      "lema": "itu",
+      "kelas": null
+    },
+    {
+      "lema": "kita",
+      "kelas": "Cakapan (tidak baku)"
+    },
+    {
+      "lema": "menganalisa",
+      "kelas": null
+    },
+    {
+      "lema": "sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "mana",
+      "kelas": null
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "belum",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "mempunyai",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "sarana-sarana",
+      "kelas": null
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "dibutuhkan",
+      "kelas": null
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "ujar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Arwan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Syarif",
+      "kelas": "Nomina (kata benda)"
+    }
+  ],
+  [
+    {
+      "lema": "Kegiatan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "bertema",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Analisis",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Kebutuhan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Sarana",
+      "kelas": null
+    },
+    {
+      "lema": "Prasarana",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "di",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Dasar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "ini",
+      "kelas": null
+    },
+    {
+      "lema": "dihadiri",
+      "kelas": null
+    },
+    {
+      "lema": "oleh",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "praktisi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "(pengajar)",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dari",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Sukabumi",
+      "kelas": null
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Depok",
+      "kelas": null
+    },
+    {
+      "lema": "Pusat",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Data",
+      "kelas": null
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Teknologi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Informasi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "(Pusdatin)",
+      "kelas": null
+    },
+    {
+      "lema": "Kemendikbud",
+      "kelas": null
+    },
+    {
+      "lema": "Balitbang",
+      "kelas": null
+    },
+    {
+      "lema": "Kemendikbud",
+      "kelas": null
+    },
+    {
+      "lema": "serta",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "dari",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "internal",
+      "kelas": null
+    },
+    {
+      "lema": "Direktorat",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Dasar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Kemendikbud",
+      "kelas": null
+    }
+  ],
+  [
+    {
+      "lema": "Ariaty",
+      "kelas": null
+    },
+    {
+      "lema": "Dano",
+      "kelas": null
+    },
+    {
+      "lema": "Koordinator",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "FGD",
+      "kelas": null
+    },
+    {
+      "lema": "Analisis",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Kebutuhan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Sarana",
+      "kelas": null
+    },
+    {
+      "lema": "Prasarana",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "di",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "Sekolah",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Dasar",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "mengatakan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "sejauh",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "ini",
+      "kelas": null
+    },
+    {
+      "lema": "media",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "banyak",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "digunakan",
+      "kelas": null
+    },
+    {
+      "lema": "dalam",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "daring",
+      "kelas": null
+    },
+    {
+      "lema": "adalah",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "smartphone",
+      "kelas": null
+    },
+    {
+      "lema": "Pihaknya",
+      "kelas": null
+    },
+    {
+      "lema": "juga",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "mendiskusikan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "konten-konten",
+      "kelas": null
+    },
+    {
+      "lema": "apa",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "bisa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "diakses",
+      "kelas": null
+    },
+    {
+      "lema": "melalui",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "teknologi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "elektronik",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Karena",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "dalam",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "itu",
+      "kelas": null
+    },
+    {
+      "lema": "menghubungkan",
+      "kelas": null
+    },
+    {
+      "lema": "antara",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pendidik",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "tenaga",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pendidik",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "tidak",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "bisa",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "dilakukan",
+      "kelas": null
+    },
+    {
+      "lema": "dalam",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "satu",
+      "kelas": "Kata bilangan"
+    },
+    {
+      "lema": "ruang",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "waktu",
+      "kelas": "Nomina (kata benda)"
+    }
+  ],
+  [
+    {
+      "lema": "Satuan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "pendidikan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "sudah",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "melakukan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "kegiatan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "belajar",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "melalui",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "webinar",
+      "kelas": null
+    },
+    {
+      "lema": "e-learning",
+      "kelas": null
+    },
+    {
+      "lema": "radio",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "dan",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "televisi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "Tapi",
+      "kelas": null
+    },
+    {
+      "lema": "kita",
+      "kelas": "Cakapan (tidak baku)"
+    },
+    {
+      "lema": "juga",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "memerlukan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "input",
+      "kelas": null
+    },
+    {
+      "lema": "apa",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "lagi",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "sarana",
+      "kelas": null
+    },
+    {
+      "lema": "prasarana",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "dibutuhkan",
+      "kelas": null
+    },
+    {
+      "lema": "dalam",
+      "kelas": "Adjektiva (kata sifat)"
+    },
+    {
+      "lema": "PJJ",
+      "kelas": null
+    },
+    {
+      "lema": "karenanya",
+      "kelas": null
+    },
+    {
+      "lema": "kita",
+      "kelas": "Cakapan (tidak baku)"
+    },
+    {
+      "lema": "mendatangkan",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "para",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "praktisi",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "untuk",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "mengetahui",
+      "kelas": "Verba (kata kerja)"
+    },
+    {
+      "lema": "kebutuhan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "apa",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "saja",
+      "kelas": "Adverbia"
+    },
+    {
+      "lema": "yang",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "diperlukan",
+      "kelas": null
+    },
+    {
+      "lema": "di",
+      "kelas": "Partikel"
+    },
+    {
+      "lema": "lapangan",
+      "kelas": "Nomina (kata benda)"
+    },
+    {
+      "lema": "ujarnya",
+      "kelas": null
+    },
+    {
+      "lema": "(Hendri/Kumi)",
+      "kelas": "Arkais (tidak lazim)"
+    }
+  ]
+]

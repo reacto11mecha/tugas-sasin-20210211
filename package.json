@@ -1,0 +1,15 @@
+{
+  "name": "tugas-sasin-20210811",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process.js",
+  "dependencies": {
+    "follow-redirects": "^1.14.5",
+    "puppeteer-core": "^11.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
