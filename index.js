@@ -22,6 +22,8 @@ const remap = content
         .replace("“", "")
         .replace("”", "")
         .replace("‘", "")
+        .replace("(", "")
+        .replace(")", "")
     )
   );
 
