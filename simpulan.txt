@@ -1,4 +1,4 @@
-Paragraf ke 1
+Paragraf ke 1, berjumlah 47 kata
 
 Lema: Sejak
 Kategori Kata: Partikel
@@ -142,7 +142,7 @@ Lema: BDR
 Kategori Kata: (N/A)
 
 
-Paragraf ke 2
+Paragraf ke 2, berjumlah 51 kata
 
 Lema: Metode
 Kategori Kata: Nomina (kata benda)
@@ -298,7 +298,7 @@ Lema: sekitar
 Kategori Kata: Nomina (kata benda)
 
 
-Paragraf ke 3
+Paragraf ke 3, berjumlah 42 kata
 
 Lema: Direktur
 Kategori Kata: Nomina (kata benda)
@@ -427,7 +427,7 @@ Lema: berlalu
 Kategori Kata: Verba (kata kerja)
 
 
-Paragraf ke 4
+Paragraf ke 4, berjumlah 54 kata
 
 Lema: Sebagai
 Kategori Kata: Partikel
@@ -592,7 +592,7 @@ Lema: Wahyuningsih
 Kategori Kata: (N/A)
 
 
-Paragraf ke 5
+Paragraf ke 5, berjumlah 39 kata
 
 Lema: Oleh
 Kategori Kata: Partikel
@@ -712,7 +712,7 @@ Lema: lancar
 Kategori Kata: Adjektiva (kata sifat)
 
 
-Paragraf ke 6
+Paragraf ke 6, berjumlah 50 kata
 
 Lema: Kita
 Kategori Kata: Cakapan (tidak baku)
@@ -865,7 +865,7 @@ Lema: Wahyuningsih
 Kategori Kata: (N/A)
 
 
-Paragraf ke 7
+Paragraf ke 7, berjumlah 60 kata
 
 Lema: Arwan
 Kategori Kata: Nomina (kata benda)
@@ -1048,7 +1048,7 @@ Lema: mengajar
 Kategori Kata: Verba (kata kerja)
 
 
-Paragraf ke 8
+Paragraf ke 8, berjumlah 51 kata
 
 Lema: Kita
 Kategori Kata: Cakapan (tidak baku)
@@ -1204,7 +1204,7 @@ Lema: Syarif
 Kategori Kata: Nomina (kata benda)
 
 
-Paragraf ke 9
+Paragraf ke 9, berjumlah 36 kata
 
 Lema: Kegiatan
 Kategori Kata: Nomina (kata benda)
@@ -1315,7 +1315,7 @@ Lema: Kemendikbud
 Kategori Kata: (N/A)
 
 
-Paragraf ke 10
+Paragraf ke 10, berjumlah 54 kata
 
 Lema: Ariaty
 Kategori Kata: (N/A)
@@ -1480,7 +1480,7 @@ Lema: waktu
 Kategori Kata: Nomina (kata benda)
 
 
-Paragraf ke 11
+Paragraf ke 11, berjumlah 42 kata
 
 Lema: Satuan
 Kategori Kata: Nomina (kata benda)

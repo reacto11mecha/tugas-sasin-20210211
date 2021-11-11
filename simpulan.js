@@ -10,7 +10,10 @@ const txt = hasil
       )
       .join("\n\n")
   )
-  .map((val, idx) => `Paragraf ke ${idx + 1}\n\n${val}`)
+  .map(
+    (val, idx) =>
+      `Paragraf ke ${idx + 1}, berjumlah ${hasil[idx].length} kata\n\n${val}`
+  )
   .join("\n\n\n");
 
 fs.writeFileSync("./simpulan.txt", txt);
