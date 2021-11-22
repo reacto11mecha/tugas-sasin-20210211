@@ -1,0 +1,779 @@
+Lema: Sejak
+Kategori Kata: Partikel
+
+Lema: pandemi
+Kategori Kata: Nomina (kata benda)
+
+Lema: Covid-19
+Kategori Kata: (N/A)
+
+Lema: melanda
+Kategori Kata: Verba (kata kerja)
+
+Lema: dunia
+Kategori Kata: Nomina (kata benda)
+
+Lema: pendidikan
+Kategori Kata: Nomina (kata benda)
+
+Lema: terpaksa
+Kategori Kata: Verba (kata kerja)
+
+Lema: memindahkan
+Kategori Kata: Verba (kata kerja)
+
+Lema: proses
+Kategori Kata: Nomina (kata benda)
+
+Lema: belajar
+Kategori Kata: Verba (kata kerja)
+
+Lema: mengajar
+Kategori Kata: Verba (kata kerja)
+
+Lema: dari
+Kategori Kata: Partikel
+
+Lema: sekolah
+Kategori Kata: Nomina (kata benda)
+
+Lema: ke
+Kategori Kata: Partikel
+
+Lema: rumah
+Kategori Kata: Nomina (kata benda)
+
+Lema: untuk
+Kategori Kata: Partikel
+
+Lema: memutus
+Kategori Kata: Verba (kata kerja)
+
+Lema: mata
+Kategori Kata: Nomina (kata benda)
+
+Lema: rantai
+Kategori Kata: Nomina (kata benda)
+
+Lema: penyebaran
+Kategori Kata: Nomina (kata benda)
+
+Lema: virus
+Kategori Kata: Nomina (kata benda)
+
+Lema: corona
+Kategori Kata: (N/A)
+
+Lema: Tak
+Kategori Kata: Adverbia
+
+Lema: terasa
+Kategori Kata: Verba (kata kerja)
+
+Lema: sudah
+Kategori Kata: Adverbia
+
+Lema: lebih
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: setengah
+Kategori Kata: Kata bilangan
+
+Lema: tahun
+Kategori Kata: Nomina (kata benda)
+
+Lema: kegiatan
+Kategori Kata: Nomina (kata benda)
+
+Lema: BDR
+Kategori Kata: (N/A)
+
+Lema: dilaksanakan
+Kategori Kata: (N/A)
+
+Lema: Meski
+Kategori Kata: Partikel
+
+Lema: masih
+Kategori Kata: (N/A)
+
+Lema: banyak
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: kendala
+Kategori Kata: Nomina (kata benda)
+
+Lema: yang
+Kategori Kata: Partikel
+
+Lema: dihadapi
+Kategori Kata: (N/A)
+
+Lema: satuan
+Kategori Kata: Nomina (kata benda)
+
+Lema: mulai
+Kategori Kata: Verba (kata kerja)
+
+Lema: terbiasa
+Kategori Kata: Verba (kata kerja)
+
+Lema: menyelenggarakan
+Kategori Kata: Verba (kata kerja)
+
+Lema: Metode
+Kategori Kata: Nomina (kata benda)
+
+Lema: sendiri
+Kategori Kata: Adverbia
+
+Lema: ada
+Kategori Kata: Verba (kata kerja)
+
+Lema: dua
+Kategori Kata: Kata bilangan
+
+Lema: yaitu
+Kategori Kata: Partikel
+
+Lema: Pembelajaran
+Kategori Kata: Nomina (kata benda)
+
+Lema: Jarak
+Kategori Kata: Nomina (kata benda)
+
+Lema: Jauh
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: Dalam
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: Jaringan
+Kategori Kata: Nomina (kata benda)
+
+Lema: PJJ
+Kategori Kata: (N/A)
+
+Lema: Daring
+Kategori Kata: (N/A)
+
+Lema: dan
+Kategori Kata: Partikel
+
+Lema: PPJ
+Kategori Kata: (N/A)
+
+Lema: Luar
+Kategori Kata: Nomina (kata benda)
+
+Lema: Luring
+Kategori Kata: (N/A)
+
+Lema: secara
+Kategori Kata: Partikel
+
+Lema: khusus
+Kategori Kata: (N/A)
+
+Lema: menggabungkan
+Kategori Kata: Verba (kata kerja)
+
+Lema: teknologi
+Kategori Kata: Nomina (kata benda)
+
+Lema: elektronik
+Kategori Kata: Nomina (kata benda)
+
+Lema: berbasis
+Kategori Kata: Verba (kata kerja)
+
+Lema: internet
+Kategori Kata: (N/A)
+
+Lema: sementara
+Kategori Kata: Partikel
+
+Lema: dapat
+Kategori Kata: Adverbia
+
+Lema: dilakukan
+Kategori Kata: (N/A)
+
+Lema: melalui
+Kategori Kata: Verba (kata kerja)
+
+Lema: siaran
+Kategori Kata: Nomina (kata benda)
+
+Lema: televisi
+Kategori Kata: Nomina (kata benda)
+
+Lema: radio
+Kategori Kata: Nomina (kata benda)
+
+Lema: modul
+Kategori Kata: Nomina (kata benda)
+
+Lema: mandiri
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: bahan
+Kategori Kata: Nomina (kata benda)
+
+Lema: cetak
+Kategori Kata: Nomina (kata benda)
+
+Lema: maupun
+Kategori Kata: Partikel
+
+Lema: media
+Kategori Kata: Nomina (kata benda)
+
+Lema: benda
+Kategori Kata: Nomina (kata benda)
+
+Lema: di
+Kategori Kata: Partikel
+
+Lema: lingkungan
+Kategori Kata: Nomina (kata benda)
+
+Lema: sekitar
+Kategori Kata: Nomina (kata benda)
+
+Lema: Direktur
+Kategori Kata: Nomina (kata benda)
+
+Lema: Dasar
+Kategori Kata: Nomina (kata benda)
+
+Lema: Direktorat
+Kategori Kata: Nomina (kata benda)
+
+Lema: Jenderal
+Kategori Kata: Nomina (kata benda)
+
+Lema: PAUD
+Kategori Kata: (N/A)
+
+Lema: Menengah
+Kategori Kata: Verba (kata kerja)
+
+Lema: Kementerian
+Kategori Kata: Nomina (kata benda)
+
+Lema: Kebudayaan
+Kategori Kata: Nomina (kata benda)
+
+Lema: Kemendikbud
+Kategori Kata: (N/A)
+
+Lema: Dra
+Kategori Kata: Nomina (kata benda)
+
+Lema: Sri
+Kategori Kata: Partikel
+
+Lema: Wahyuningsih
+Kategori Kata: (N/A)
+
+Lema: MPd
+Kategori Kata: (N/A)
+
+Lema: melihat
+Kategori Kata: (N/A)
+
+Lema: peluang
+Kategori Kata: Nomina (kata benda)
+
+Lema: masa
+Kategori Kata: Nomina (kata benda)
+
+Lema: depan
+Kategori Kata: Nomina (kata benda)
+
+Lema: terbentuk
+Kategori Kata: Kiasan
+
+Lema: kondisi
+Kategori Kata: Nomina (kata benda)
+
+Lema: Menurutnya
+Kategori Kata: (N/A)
+
+Lema: bisa
+Kategori Kata: Verba (kata kerja)
+
+Lema: tetap
+Kategori Kata: Verba (kata kerja)
+
+Lema: diterapkan
+Kategori Kata: (N/A)
+
+Lema: setelah
+Kategori Kata: Adverbia
+
+Lema: berlalu
+Kategori Kata: Verba (kata kerja)
+
+Lema: Sebagai
+Kategori Kata: Partikel
+
+Lema: contoh
+Kategori Kata: Nomina (kata benda)
+
+Lema: anak
+Kategori Kata: Nomina (kata benda)
+
+Lema: ikut
+Kategori Kata: Verba (kata kerja)
+
+Lema: orang
+Kategori Kata: Nomina (kata benda)
+
+Lema: tuanya
+Kategori Kata: (N/A)
+
+Lema: pindah
+Kategori Kata: (N/A)
+
+Lema: negara
+Kategori Kata: Nomina (kata benda)
+
+Lema: lain
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: biasanya
+Kategori Kata: Adverbia
+
+Lema: mengalami
+Kategori Kata: (N/A)
+
+Lema: dengan
+Kategori Kata: Partikel
+
+Lema: pendidikannya
+Kategori Kata: (N/A)
+
+Lema: Dia
+Kategori Kata: (N/A)
+
+Lema: harus
+Kategori Kata: Adverbia
+
+Lema: berhenti
+Kategori Kata: Verba (kata kerja)
+
+Lema: tujuan
+Kategori Kata: Nomina (kata benda)
+
+Lema: belum
+Kategori Kata: Adverbia
+
+Lema: tentu
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: langsung
+Kategori Kata: Adverbia
+
+Lema: diterima
+Kategori Kata: (N/A)
+
+Lema: Nah
+Kategori Kata: Partikel
+
+Lema: ini
+Kategori Kata: (N/A)
+
+Lema: menjadi
+Kategori Kata: Verba (kata kerja)
+
+Lema: solusi
+Kategori Kata: Nomina (kata benda)
+
+Lema: itu
+Kategori Kata: (N/A)
+
+Lema: misalnya
+Kategori Kata: (N/A)
+
+Lema: ia
+Kategori Kata: (N/A)
+
+Lema: jelas
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: Oleh
+Kategori Kata: Partikel
+
+Lema: karena
+Kategori Kata: Partikel
+
+Lema: mendorong
+Kategori Kata: (N/A)
+
+Lema: jajaran
+Kategori Kata: Nomina (kata benda)
+
+Lema: mengindentifikasi
+Kategori Kata: (N/A)
+
+Lema: persoalan-persoalan
+Kategori Kata: (N/A)
+
+Lema: kemudian
+Kategori Kata: (N/A)
+
+Lema: mencari
+Kategori Kata: Verba (kata kerja)
+
+Lema: solusinya
+Kategori Kata: (N/A)
+
+Lema: Termasuk
+Kategori Kata: Verba (kata kerja)
+
+Lema: mengidentifikasi
+Kategori Kata: Verba (kata kerja)
+
+Lema: sarana
+Kategori Kata: (N/A)
+
+Lema: prasarana
+Kategori Kata: Nomina (kata benda)
+
+Lema: apa
+Kategori Kata: Partikel
+
+Lema: saja
+Kategori Kata: Adverbia
+
+Lema: dibutuhkan
+Kategori Kata: (N/A)
+
+Lema: agar
+Kategori Kata: Partikel
+
+Lema: berjalan
+Kategori Kata: Verba (kata kerja)
+
+Lema: lancar
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: Kita
+Kategori Kata: Cakapan (tidak baku)
+
+Lema: perlu
+Kategori Kata: Adverbia
+
+Lema: melakukan
+Kategori Kata: Verba (kata kerja)
+
+Lema: identifikasi
+Kategori Kata: Nomina (kata benda)
+
+Lema: baik
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: tidak
+Kategori Kata: Adverbia
+
+Lema: hanya
+Kategori Kata: Adverbia
+
+Lema: perkotaan
+Kategori Kata: Nomina (kata benda)
+
+Lema: tetapi
+Kategori Kata: Partikel
+
+Lema: juga
+Kategori Kata: Adverbia
+
+Lema: daerah
+Kategori Kata: Nomina (kata benda)
+
+Lema: 3T
+Kategori Kata: (N/A)
+
+Lema: tertinggal
+Kategori Kata: Verba (kata kerja)
+
+Lema: terdepan
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: terluar
+Kategori Kata: (N/A)
+
+Lema: kata
+Kategori Kata: Nomina (kata benda)
+
+Lema: Arwan
+Kategori Kata: Nomina (kata benda)
+
+Lema: Syarif
+Kategori Kata: Nomina (kata benda)
+
+Lema: Analis
+Kategori Kata: Nomina (kata benda)
+
+Lema: Kebijakan
+Kategori Kata: Nomina (kata benda)
+
+Lema: Ahli
+Kategori Kata: Nomina (kata benda)
+
+Lema: Muda
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: mengatakan
+Kategori Kata: Verba (kata kerja)
+
+Lema: pihaknya
+Kategori Kata: (N/A)
+
+Lema: menggelar
+Kategori Kata: Verba (kata kerja)
+
+Lema: Focus
+Kategori Kata: (N/A)
+
+Lema: Group
+Kategori Kata: (N/A)
+
+Lema: Discussion
+Kategori Kata: (N/A)
+
+Lema: FGD
+Kategori Kata: (N/A)
+
+Lema: pada
+Kategori Kata: Partikel
+
+Lema: 20-22
+Kategori Kata: (N/A)
+
+Lema: Oktober
+Kategori Kata: Nomina (kata benda)
+
+Lema: 2020
+Kategori Kata: (N/A)
+
+Lema: diharapkan
+Kategori Kata: (N/A)
+
+Lema: selama
+Kategori Kata: Nomina (kata benda)
+
+Lema: terdapat
+Kategori Kata: Verba (kata kerja)
+
+Lema: perbedaan
+Kategori Kata: Nomina (kata benda)
+
+Lema: antara
+Kategori Kata: Nomina (kata benda)
+
+Lema: guru
+Kategori Kata: Nomina (kata benda)
+
+Lema: siswa
+Kategori Kata: Nomina (kata benda)
+
+Lema: terpisah
+Kategori Kata: (N/A)
+
+Lema: sehingga
+Kategori Kata: Partikel
+
+Lema: mediasi-mediasi
+Kategori Kata: (N/A)
+
+Lema: aktivitas
+Kategori Kata: Nomina (kata benda)
+
+Lema: interaksi
+Kategori Kata: Nomina (kata benda)
+
+Lema: harmonis
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: sesuai
+Kategori Kata: (N/A)
+
+Lema: kaidah-kaidah
+Kategori Kata: (N/A)
+
+Lema: pengganti
+Kategori Kata: Nomina (kata benda)
+
+Lema: tatap
+Kategori Kata: Verba (kata kerja)
+
+Lema: muka
+Kategori Kata: Nomina (kata benda)
+
+Lema: kira-kira
+Kategori Kata: Adverbia
+
+Lema: tua
+Kategori Kata: Adjektiva (kata sifat)
+
+Lema: nggak
+Kategori Kata: (N/A)
+
+Lema: mendukung
+Kategori Kata: Verba (kata kerja)
+
+Lema: Selain
+Kategori Kata: (N/A)
+
+Lema: menganalisa
+Kategori Kata: (N/A)
+
+Lema: mana
+Kategori Kata: (N/A)
+
+Lema: mempunyai
+Kategori Kata: Verba (kata kerja)
+
+Lema: sarana-sarana
+Kategori Kata: (N/A)
+
+Lema: ujar
+Kategori Kata: Nomina (kata benda)
+
+Lema: bertema
+Kategori Kata: Nomina (kata benda)
+
+Lema: Analisis
+Kategori Kata: Nomina (kata benda)
+
+Lema: Kebutuhan
+Kategori Kata: Nomina (kata benda)
+
+Lema: dihadiri
+Kategori Kata: (N/A)
+
+Lema: praktisi
+Kategori Kata: Nomina (kata benda)
+
+Lema: pengajar
+Kategori Kata: Nomina (kata benda)
+
+Lema: Sukabumi
+Kategori Kata: (N/A)
+
+Lema: Depok
+Kategori Kata: (N/A)
+
+Lema: Pusat
+Kategori Kata: Nomina (kata benda)
+
+Lema: Data
+Kategori Kata: (N/A)
+
+Lema: Informasi
+Kategori Kata: Nomina (kata benda)
+
+Lema: Pusdatin
+Kategori Kata: (N/A)
+
+Lema: Balitbang
+Kategori Kata: (N/A)
+
+Lema: serta
+Kategori Kata: Partikel
+
+Lema: internal
+Kategori Kata: (N/A)
+
+Lema: Ariaty
+Kategori Kata: (N/A)
+
+Lema: Dano
+Kategori Kata: (N/A)
+
+Lema: Koordinator
+Kategori Kata: Nomina (kata benda)
+
+Lema: sejauh
+Kategori Kata: Nomina (kata benda)
+
+Lema: digunakan
+Kategori Kata: (N/A)
+
+Lema: adalah
+Kategori Kata: Verba (kata kerja)
+
+Lema: smartphone
+Kategori Kata: (N/A)
+
+Lema: mendiskusikan
+Kategori Kata: Verba (kata kerja)
+
+Lema: konten-konten
+Kategori Kata: (N/A)
+
+Lema: diakses
+Kategori Kata: (N/A)
+
+Lema: menghubungkan
+Kategori Kata: (N/A)
+
+Lema: pendidik
+Kategori Kata: Nomina (kata benda)
+
+Lema: tenaga
+Kategori Kata: Nomina (kata benda)
+
+Lema: satu
+Kategori Kata: Kata bilangan
+
+Lema: ruang
+Kategori Kata: Nomina (kata benda)
+
+Lema: waktu
+Kategori Kata: Nomina (kata benda)
+
+Lema: webinar
+Kategori Kata: (N/A)
+
+Lema: e-learning
+Kategori Kata: (N/A)
+
+Lema: Tapi
+Kategori Kata: (N/A)
+
+Lema: memerlukan
+Kategori Kata: Verba (kata kerja)
+
+Lema: input
+Kategori Kata: (N/A)
+
+Lema: lagi
+Kategori Kata: Adverbia
+
+Lema: karenanya
+Kategori Kata: (N/A)
+
+Lema: mendatangkan
+Kategori Kata: Verba (kata kerja)
+
+Lema: para
+Kategori Kata: Partikel
+
+Lema: mengetahui
+Kategori Kata: Verba (kata kerja)
+
+Lema: diperlukan
+Kategori Kata: (N/A)
+
+Lema: lapangan
+Kategori Kata: Nomina (kata benda)
+
+Lema: ujarnya
+Kategori Kata: (N/A)
+
+Lema: Hendri/Kumi
+Kategori Kata: Arkais (tidak lazim)
